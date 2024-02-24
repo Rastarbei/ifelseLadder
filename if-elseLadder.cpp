@@ -12,6 +12,7 @@ int main()
 		else if (x==2) cout << "x is two \n";
 		else if (x==3) cout << "x is three \n";
 		else if (x==4) cout << "x is four \n";
+		else if (x==5) cout << "x is five \n";
 		else cout << "x is not between one and four\n";	
 	}
 	
